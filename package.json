@@ -1,0 +1,15 @@
+{
+  "name": "06-a-quote-a-day",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Prashanth Puranik <puranik@digdeeper.in> (http://www.digdeeper.in/)",
+  "license": "Copyright 2018, Prashanth Puranik, All rights reserved",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
